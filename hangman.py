@@ -6,7 +6,7 @@ guess = ''
 
 trys= 10
 #welcomes the user
-
+print('hello')
 def welcome():
     print(''' ------------------------------------------
         Welcome '''+ user+ ''', get ready to start the game
